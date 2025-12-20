@@ -1,3 +1,7 @@
+//Question:- Crate a game where you start with any random game number. Ask the user to keep guessing the game number until the users enters correct Value.  
+
+
+
 let mainNumber=Number(prompt("Enter the main number from 1 to 10"));
 let userGuess=Number(prompt("Guess the number from 1 to 10"));
 
