@@ -1,5 +1,5 @@
 //Question 2:- Create 3 divs with common class name "box". Access them & add some unique of them.
-
+//Answer
 let divs=document.querySelectorAll(".box");
 console.dir(divs);
 console.log(divs[0]);
