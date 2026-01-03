@@ -9,3 +9,4 @@ console.log(divs[0].innerHTML);
 divs[0].innerText="Deep";
 divs[1].innerText="Modak";
 divs[2].innerText="changed";
+
